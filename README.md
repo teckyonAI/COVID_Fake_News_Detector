@@ -20,11 +20,11 @@ To set up and run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/COVID-Fake-News-Classification.git
+   git clone https://github.com/teckyonAI/COVID_Fake_News_Detector.git
    
 2. Navigate to the project directory:
    ```bash
-   cd Breast_Cancer_AI_Predictor
+   cd COVID_Fake_News_Detector
 
 3. Install the required dependencies:
     ```bash
